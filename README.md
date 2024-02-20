@@ -14,6 +14,21 @@ Data Transformation: Established a secure hybrid cloud architecture, optimizing 
 
 Statistical Analysis in Power BI: Leveraged statistical measures into Power BI dashboards, including averages, deviations, maximum, and minimum values. Utilized DAX to calculate and showcase data trends.
 
+# Everyday Journey: Daily Commuting Patterns
+
+- [x] **Azure Data Factory** - 
+  -  ETL Pipeline <br />
+  ![ETL Pipeline](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/afff7ad5e81b857a7e822434f952ef85bebc679b/Daily%20Riders%20Analysis/pipeline.PNG)
+
+- [x] **SQL Server Management Studio** - 
+  -  Data Retrieval Query <br />
+  ![SQL ](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/afff7ad5e81b857a7e822434f952ef85bebc679b/Daily%20Riders%20Analysis/sql.PNG)
+
+- [x] **Power Bi** - 
+  - Daily Passengers: Data Analysis <br />
+  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/afff7ad5e81b857a7e822434f952ef85bebc679b/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
+![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/afff7ad5e81b857a7e822434f952ef85bebc679b/Daily%20Riders%20Analysis/power%20bi.PNG)
+
 # Dynamic Fluctuations in Chicken and Beef Prices: A Comprehensive Analysis of Ayam and Daging Market Trends
 
 - [x] **Azure Data Factory** - 
