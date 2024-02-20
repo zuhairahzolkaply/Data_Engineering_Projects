@@ -1,5 +1,5 @@
 # Portfolio Projects
-## Following are my projects in Azure Data Factory, Azure Storage, Azure Databricks, MS SQL & Power BI: <br />
+## The projects involve utilizing Azure Data Factory, Azure Storage, Azure Databricks, MS SQL & Power BI: <br />
 
 
 ETL process: Implemented and managed data pipelines using Azure Data Factory for efficient ETL processes, reducing processing time by 30%.
