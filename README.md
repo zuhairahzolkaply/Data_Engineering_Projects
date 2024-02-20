@@ -1,3 +1,7 @@
+# Portfolio Projects
+## Following are my projects in Azure Data Factory, Azure Storage, Azure Databricks, MS SQL & Power BI: <br />
+
+
 ETL process: Implemented and managed data pipelines using Azure Data Factory for efficient ETL processes, reducing processing time by 30%.
 
 Data storage: Designed and maintained Azure Storage solutions, optimizing data storage and retrieval.
@@ -8,4 +12,4 @@ Star Schema Implementation: Implemented star schema, enhancing data warehouse pe
 
 MS SQL Utilization: Established a secure hybrid cloud architecture, optimizing communication between on-premises MS SQL databases and Azure services. Created views to support complex reporting requirements, facilitating streamlined data analysis.
 
-Statistical Analysis in Power BI: Leveraged statistical measures into Power BI dashboards, including averages, deviations, maximum, and minimum values. Utilized DAX to calculate and showcase data trend.
+Statistical Analysis in Power BI: Leveraged statistical measures into Power BI dashboards, including averages, deviations, maximum, and minimum values. Utilized DAX to calculate and showcase data trends.
