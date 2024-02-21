@@ -29,7 +29,7 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
   *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/424ccc4faa71823ac07ebe5fd56feb6a7a52fb3c/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
 ![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/424ccc4faa71823ac07ebe5fd56feb6a7a52fb3c/Daily%20Riders%20Analysis/power%20bi.PNG)
 
-# Dynamic Fluctuations in Chicken and Beef Prices: A Comprehensive Analysis of Ayam and Daging Market Trends
+# Dynamic Fluctuations in Chicken and Meat Prices: A Comprehensive Analysis of Ayam and Daging Market Trends
 
 - [x] **Azure Data Factory** - 
   -  ETL Pipeline <br />
@@ -45,5 +45,5 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
 ![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/b3a2808ef67ae2cdb59bbdc659ea87e06ce50989/Ayam_Daging%20Prices%20Analysis/ayam.PNG)
 
   - Daging prices: Data Analysis <br />
-   *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/2d1916a6fb83b9968b931d0ae173b8cc219430ed/Ayam_Daging%20Prices%20Analysis/daging_prices.pbix)**<br />
-![Daging Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/2d1916a6fb83b9968b931d0ae173b8cc219430ed/Ayam_Daging%20Prices%20Analysis/daging.PNG)
+   *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/c0bbd2d9a6ac96fd5193328769ae04c805c3b9b9/Ayam_Daging%20Prices%20Analysis/daging_prices.pbix)**<br />
+![Daging Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/c0bbd2d9a6ac96fd5193328769ae04c805c3b9b9/Ayam_Daging%20Prices%20Analysis/daging.PNG)
