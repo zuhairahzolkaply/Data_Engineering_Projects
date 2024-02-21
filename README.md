@@ -26,8 +26,8 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
 
 - [x] **Power Bi** - 
   - Daily Passengers: Data Analysis <br />
-  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/afff7ad5e81b857a7e822434f952ef85bebc679b/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
-![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/afff7ad5e81b857a7e822434f952ef85bebc679b/Daily%20Riders%20Analysis/power%20bi.PNG)
+  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/424ccc4faa71823ac07ebe5fd56feb6a7a52fb3c/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
+![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/424ccc4faa71823ac07ebe5fd56feb6a7a52fb3c/Daily%20Riders%20Analysis/power%20bi.PNG)
 
 # Dynamic Fluctuations in Chicken and Beef Prices: A Comprehensive Analysis of Ayam and Daging Market Trends
 
