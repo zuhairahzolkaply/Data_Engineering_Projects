@@ -14,6 +14,26 @@ Data Transformation: Established a secure hybrid cloud architecture, optimizing 
 
 Statistical Analysis in Power BI: Leveraged statistical measures into Power BI dashboards, including averages, deviations, maximum, and minimum values. Utilized DAX to calculate and showcase data trends.
 
+# Tokyo Olympic Data Insights
+
+- [x] **Azure Data Factory** - 
+  -  ETL Pipeline <br />
+  ![ETL Pipeline](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/pipeline.PNG)
+
+- [x] **Azure Synapse** - 
+  -  Data  Query <br />
+  *SQL file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/olympicdata.sql)**
+  ![SQL ](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/synapse.PNG)
+
+- [x] **Azure Databricks** - 
+  -  Transformation <br />
+  ![Databricks](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/databricks%20transformation.PNG)
+  ![Transformation](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/databricks.PNG)
+
+- [x] **Power Bi** - 
+  -  Data Analysis <br />
+  ![Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/dashboard.PNG)
+
 # Everyday Journey: Daily Commuting Patterns
 
 - [x] **Azure Data Factory** - 
