@@ -20,15 +20,15 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
   -  ETL Pipeline <br />
   ![ETL Pipeline](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/pipeline.PNG)
 
-- [x] **Azure Synapse** - 
-  -  Data  Query <br />
-  *SQL file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/olympicdata.sql)**
-  ![SQL ](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/synapse.PNG)
-
 - [x] **Azure Databricks** - 
   -  Transformation <br />
   ![Databricks](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/databricks%20transformation.PNG)
   ![Transformation](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/databricks.PNG)
+
+- [x] **Azure Synapse** - 
+  -  Data  Query <br />
+  *SQL file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/olympicdata.sql)**
+  ![SQL ](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/5500670c0f063ef5955ca1800e9af270a79709ef/Olympic%20Analysis/synapse.PNG)
 
 - [x] **Power Bi** - 
   -  Data Analysis <br />
