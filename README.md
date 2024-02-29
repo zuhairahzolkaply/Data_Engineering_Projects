@@ -61,8 +61,8 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
 
 - [x] **Power Bi** - 
   - Ayam prices: Data Analysis <br />
-  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/47f3df379b5a4cfcb9ae3511161f045d26dcdeb3/Ayam_Daging%20Prices%20Analysis/ayam_prices.pbix)**<br />
-![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/24ea27fb9487da04a20e005b02cdca6d46d7c54d/Ayam_Daging%20Prices%20Analysis/ayam.PNG)
+  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/80b5d81ae563cfd355f6640cf1170b2c16f6bb19/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
+![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/80b5d81ae563cfd355f6640cf1170b2c16f6bb19/Daily%20Riders%20Analysis/power%20bi.PNG)
 
   - Daging prices: Data Analysis <br />
    *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/c0bbd2d9a6ac96fd5193328769ae04c805c3b9b9/Ayam_Daging%20Prices%20Analysis/daging_prices.pbix)**<br />
