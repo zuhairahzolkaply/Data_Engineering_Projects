@@ -46,8 +46,8 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
 
 - [x] **Power Bi** - 
   - Daily Passengers: Data Analysis <br />
-  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/424ccc4faa71823ac07ebe5fd56feb6a7a52fb3c/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
-![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/424ccc4faa71823ac07ebe5fd56feb6a7a52fb3c/Daily%20Riders%20Analysis/power%20bi.PNG)
+ *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/80b5d81ae563cfd355f6640cf1170b2c16f6bb19/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
+![Rider Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/80b5d81ae563cfd355f6640cf1170b2c16f6bb19/Daily%20Riders%20Analysis/power%20bi.PNG)
 
 # Dynamic Fluctuations in Chicken and Meat Prices: A Comprehensive Analysis of Ayam and Daging Market Trends
 
@@ -61,8 +61,8 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
 
 - [x] **Power Bi** - 
   - Ayam prices: Data Analysis <br />
-  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/80b5d81ae563cfd355f6640cf1170b2c16f6bb19/Daily%20Riders%20Analysis/daily_rider.pbix)**<br />
-![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/80b5d81ae563cfd355f6640cf1170b2c16f6bb19/Daily%20Riders%20Analysis/power%20bi.PNG)
+  *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/b7be13428943db97087ea071e691394d832672d6/Ayam_Daging%20Prices%20Analysis/ayam_prices.pbix)**<br />
+![Ayam Dashboard](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/b7be13428943db97087ea071e691394d832672d6/Ayam_Daging%20Prices%20Analysis/ayam.PNG)
 
   - Daging prices: Data Analysis <br />
    *Download pbix file:* **[HERE](https://github.com/zuhairahzolkaply/Data_Engineering_Projects/blob/c0bbd2d9a6ac96fd5193328769ae04c805c3b9b9/Ayam_Daging%20Prices%20Analysis/daging_prices.pbix)**<br />
